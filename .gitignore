@@ -1,0 +1,14 @@
+*.xes
+*.pyc
+*.pnml
+*.csv
+*.png
+*.ptml
+*.txt
+*.xlsx
+*.zip
+*.pdf
+*.docx
+
+.vscode/
+__pycache__/

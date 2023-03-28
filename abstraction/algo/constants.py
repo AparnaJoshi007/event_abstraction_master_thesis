@@ -1,0 +1,32 @@
+DEFAULT_ACTIVITY_KEY = 'concept:name'
+DEFAULT_CASE_KEY = 'case:concept:name'
+DEFAULT_LIFECYCLE_KEY = 'lifecycle:transition'
+DEFAULT_ABSTRACTION_KEY = 'abstraction:level'
+DEFAULT_CONCEPT_INSTANCE_KEY = 'concept:instance'
+DEFAULT_TIMESTAMP_KEY = 'time:timestamp'
+DEFAULT_EVENT_INDEX = '@@index'
+PATTERNS = 'patterns'
+CLUSTERS = 'clusters'
+MATRIX = 'matrix'
+START_LIFECYCLE_VALUE = 'start'
+DEFAULT_LIFECYCLE_VALUE = 'complete'
+CLUSTER_COUNT = 'cluster:count'
+METRIC = 'metric'
+THRESHOLD = 'threshold'
+ALGORITHM = 'algorithm'
+EPS = 'eps'
+MAX_EPS = 'max_eps'
+MIN_SAMPLES = 'min:samples'
+DISTANCE_THRESHOLD = 'distance_threshold'
+MIN_CLUSTER_SIZE = 500
+EPSILON_VALUE = 0.5
+PRECEDING_WINDOW = 3
+SUCCEEDING_WINDOW = 3
+
+
+
+
+MIN_CLUSTER_SIZE_PRECEDING = 20
+EPSILON_VALUE_PRECEDING = 0.6
+MIN_CLUSTER_SIZE_SUCCEEDING = 20
+EPSILON_VALUE_SUCCEEDING = 0.6
